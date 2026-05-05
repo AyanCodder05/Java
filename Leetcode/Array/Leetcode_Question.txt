@@ -1,0 +1,68 @@
+Here are the **exact LeetCode question numbers** mapped to your 7-day plan. No guessing—these are standard, widely asked problems.
+
+---
+
+DAY 1 — INDEX CONTROL
+
+* 344. Reverse String
+* 485. Max Consecutive Ones
+* 1295. Find Numbers with Even Number of Digits
+* 1752. Check if Array Is Sorted and Rotated
+
+---
+
+DAY 2 — PREFIX SUM
+
+* 1480. Running Sum of 1d Array
+* 303. Range Sum Query - Immutable
+* 560. Subarray Sum Equals K
+* 724. Find Pivot Index
+
+---
+
+DAY 3 — INDEX MAPPING (YOUR WEAK AREA)
+
+* 1470. Shuffle the Array
+* 1920. Build Array from Permutation
+* 1929. Concatenation of Array
+* 189. Rotate Array
+
+---
+
+DAY 4 — TWO POINTERS
+
+* 344. Reverse String
+* 167. Two Sum II - Input Array Is Sorted
+* 283. Move Zeroes
+* 11. Container With Most Water
+
+---
+
+DAY 5 — SLIDING WINDOW
+
+* 643. Maximum Average Subarray I
+* 3. Longest Substring Without Repeating Characters
+* 209. Minimum Size Subarray Sum
+* 1004. Max Consecutive Ones III
+
+---
+
+DAY 6 — IN-PLACE OPERATIONS
+
+* 26. Remove Duplicates from Sorted Array
+* 283. Move Zeroes
+* 189. Rotate Array
+* 75. Sort Colors
+
+---
+
+DAY 7 — INTERVIEW SIMULATION
+
+Pick ANY 3 from:
+
+* 1. Two Sum
+* 53. Maximum Subarray
+* 121. Best Time to Buy and Sell Stock
+* 238. Product of Array Except Self
+
+---

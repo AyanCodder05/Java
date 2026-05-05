@@ -1,0 +1,71 @@
+EASY ARRAY QUESTIONS (NO SLIDING WINDOW / HASHMAP)
+Basic Traversal & Logic
+
+* 1920. Build Array from Permutation
+* 1929. Concatenation of Array
+* 1470. Shuffle the Array
+* 1480. Running Sum of 1d Array
+* 1365. How Many Numbers Are Smaller Than the Current Number
+* 1512. Number of Good Pairs
+
+---
+Max / Min / Counting
+
+* 485. Max Consecutive Ones
+* 414. Third Maximum Number
+* 1295. Find Numbers with Even Number of Digits
+* 1394. Find Lucky Integer in an Array
+
+---
+Prefix Sum Basics (NO hashmap)
+
+* 303. Range Sum Query - Immutable
+* 724. Find Pivot Index
+
+---
+
+Index Manipulation (IMPORTANT)
+
+* 26. Remove Duplicates from Sorted Array
+* 27. Remove Element
+* 283. Move Zeroes
+* 905. Sort Array By Parity
+* 977. Squares of a Sorted Array
+
+---
+
+Sorting / Rearranging
+
+* 75. Sort Colors
+* 561. Array Partition
+* 1051. Height Checker
+
+---
+Searching Basics
+
+* 704. Binary Search
+* 35. Search Insert Position
+
+---
+
+Matrix (2D Array Basics)
+
+* 867. Transpose Matrix
+* 566. Reshape the Matrix
+* 1572. Matrix Diagonal Sum
+* 1380. Lucky Numbers in a Matrix
+
+---
+
+Misc Array Logic
+
+* 628. Maximum Product of Three Numbers
+* 66. Plus One
+* 88. Merge Sorted Array
+* 169. Majority Element
+* 121. Best Time to Buy and Sell Stock
+* 448. Find All Numbers Disappeared in an Array
+* 414. Third Maximum Number
+* 217. Contains Duplicate
+
+---
